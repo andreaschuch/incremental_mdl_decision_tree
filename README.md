@@ -5,6 +5,8 @@ Our task was to build an incremental decision tree learner based on the minimum 
 
 The project was rated with with the highest mark. Programed in java.
 
+For more information, please see the report incrementalMDLdecisiontree.pdf
+
 
 # How to Setup this Project:
 1.  git clone https://github.com/andreaschuch/incremental_mdl_decision_tree  
