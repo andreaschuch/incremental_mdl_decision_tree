@@ -1,7 +1,7 @@
 # About the  Project
 Student project within the Master of Artificial Intelligence at UvA (course ¨Machine learning: Principles and Methods¨).
 
-Our task was to build an incremental decision tree learner based on the minimum description length principle (mdl).
+Our task was to build an incremental decision tree learner based on the [minimum description length principle (mdl)] (https://en.wikipedia.org/wiki/Minimum_description_length).
 
 The project was rated with with the highest mark. Programed in java.
 
